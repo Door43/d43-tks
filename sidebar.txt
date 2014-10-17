@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tks:home|Door43 (tks)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tks|d43-tks repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tks/archive/master.zip|d43-tks.zip]]
+
+**Recent Changes**
+{{changes>ns = tks}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tks|Ethnologue data]]
+
